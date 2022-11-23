@@ -44,3 +44,20 @@ body{
     width: 80px;
     
 }
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+.form-wrapper{
+    position: fixed;
+    top: 270px;
+    right: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 20px;
+}
